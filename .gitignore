@@ -7,7 +7,9 @@
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
+
 
 # Thumbnails
 ._*
@@ -34,3 +36,4 @@ framer/*.old.*
 framer/backup.coffee
 framer/backups/*
 framer/.*.hash
+framer/*.generated.*
